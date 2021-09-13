@@ -1,0 +1,13 @@
+C:\Users\Hustlei\source\repos\AluGames\AluGames\bin\Debug\AluGames.exe.config
+C:\Users\Hustlei\source\repos\AluGames\AluGames\bin\Debug\AluGames.exe
+C:\Users\Hustlei\source\repos\AluGames\AluGames\bin\Debug\AluGames.pdb
+C:\Users\Hustlei\source\repos\AluGames\AluGames\obj\Debug\AluGames.csproj.AssemblyReference.cache
+C:\Users\Hustlei\source\repos\AluGames\AluGames\obj\Debug\AluGames.Properties.Resources.resources
+C:\Users\Hustlei\source\repos\AluGames\AluGames\obj\Debug\AluGames.csproj.GenerateResource.cache
+C:\Users\Hustlei\source\repos\AluGames\AluGames\obj\Debug\AluGames.csproj.CoreCompileInputs.cache
+C:\Users\Hustlei\source\repos\AluGames\AluGames\obj\Debug\AluGames.exe
+C:\Users\Hustlei\source\repos\AluGames\AluGames\obj\Debug\AluGames.pdb
+C:\Users\Hustlei\source\repos\AluGames\AluGames\obj\Debug\AluGames.Menu.resources
+C:\Users\Hustlei\source\repos\AluGames\AluGames\obj\Debug\AluGames.Jogos.resources
+C:\Users\Hustlei\source\repos\AluGames\AluGames\obj\Debug\AluGames.Clientes.resources
+C:\Users\Hustlei\source\repos\AluGames\AluGames\obj\Debug\AluGames.Alugar.resources
